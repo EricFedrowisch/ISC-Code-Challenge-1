@@ -8,7 +8,7 @@ The Prizes:
 	Those who complete the challenge will receive a certificate and recognition at the next 		meeting. The first three to complete it will also receive an additional prize!
 
 What you will need:
-The code and the image can be downloaded from this GitHub page here: LINK
+The code and the image can be downloaded from this GitHub page here: https://github.com/EricFedrowisch/ISC-Code-Challenge-1/archive/master.zip
 
 You will also need to install Python 2.7. I would advise you use Anaconda as it comes with the Pillow Image Library used by the given code. You can get Anaconda here:  
 https://www.anaconda.com/download/
